@@ -12,6 +12,7 @@ about:
     - icon: laptop
       text: Slides
       href: https://docs.google.com/presentation/d/18cddi7XZhXXDWLZoGvyAbiND6xvn-nDhXr5oRsOWaBA/edit?usp=sharing
+      target: _blank
 ---
 
 Insert description down here
