@@ -1,0 +1,20 @@
+---
+title: "Lucca Ferraz"
+about: 
+  template: jolla
+  image: assets/headshot.jpeg
+  links: 
+    - icon: envelope
+      text: Email
+      href: mailto:Lbf5@rice.edu
+    - icon: github
+      text: GitHub
+      href: https://github.com/lucca-ferraz
+      target: _blank
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/lucca-ferraz/
+      target: _blank
+---
+
+Welcome to my website! I am a Junior at Rice University majoring in Statistics and Sport Analytics, with minors in Data Science and Financial Computation and Modeling. 

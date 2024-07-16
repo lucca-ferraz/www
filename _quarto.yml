@@ -1,0 +1,31 @@
+project:
+  type: website
+  resources: assets
+  output-dir: docs
+
+website:
+  title: "Lucca Ferraz"
+  navbar:
+    background: "#005596"
+    left:
+      - href: index.qmd
+        text: Home
+      - projects.qmd
+    right: 
+      - icon: linkedin
+        href: https://www.linkedin.com/in/lucca-ferraz/
+        target: _blank
+      - icon: github
+        href: https://github.com/lucca-ferraz
+        target: _blank
+      - icon: file-pdf
+        href: assets/luccaresume.pdf
+
+format:
+  html:
+    theme: yeti
+    css: styles.css
+    toc: true
+
+
+
