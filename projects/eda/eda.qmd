@@ -15,4 +15,4 @@ about:
       target: _blank
 ---
 
-Insert description down here
+Analyzed factors most important to winning in the Women's Tennis Association. Applied k-means clustering to group players based on their performance on break points.

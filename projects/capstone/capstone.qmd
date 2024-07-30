@@ -1,6 +1,6 @@
 ---
-title: "Capstone"
-description: "Capstone Project on modeling batted passes in the NFL for SURE 2024 at Carnegie Mellon University"
+title: "Carnegie Mellon Sports Analytics Camp Capstone"
+description: "Batted Passes in the NFL: A Hierarchical Approach to Explaining Variance of an Unlikely Event"
 date: July 2024
 about:
   template: solana
@@ -11,10 +11,15 @@ about:
       href: https://github.com/lucca-ferraz/Modeling-Batted-Passes
     - icon: laptop
       text: Slides
+      href: https://www.stat.cmu.edu/cmsac/sure/2024/showcase/football/slides.html#/
     - icon: file
       text: Poster
+      href: https://www.stat.cmu.edu/cmsac/sure/2024/showcase/football/poster.pdf
     - icon: pencil
       text: Report
+      href: https://www.stat.cmu.edu/cmsac/sure/2024/showcase/football/report.html
 ---
 
-Insert description down here
+**Research Question: How can we best explain the variance of batted passes in the NFL on a play-by-play basis?**
+
+Utilized a multilevel model taking into account quarterback and defensive team as random effects, with information about the play (ex. formation, pass location) as fixed effects.
