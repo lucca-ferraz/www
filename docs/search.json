@@ -7,15 +7,15 @@
     "text": "Welcome to my website! I am a Junior at Rice University majoring in Statistics and Sport Analytics, with minors in Data Science and Financial Computation and Modeling."
   },
   {
-    "objectID": "projects/capstone/capstone.html",
-    "href": "projects/capstone/capstone.html",
+    "objectID": "projects/CMSACamp Capstone Project/capstone.html",
+    "href": "projects/CMSACamp Capstone Project/capstone.html",
     "title": "Carnegie Mellon Sports Analytics Camp Capstone",
     "section": "",
     "text": "Research Question: How can we best explain the variance of batted passes in the NFL on a play-by-play basis?\nUtilized a multilevel model taking into account quarterback and defensive team as random effects, with information about the play (ex. formation, pass location) as fixed effects."
   },
   {
-    "objectID": "projects/eda/eda.html",
-    "href": "projects/eda/eda.html",
+    "objectID": "projects/CMSACamp EDA Project/eda.html",
+    "href": "projects/CMSACamp EDA Project/eda.html",
     "title": "EDA",
     "section": "",
     "text": "Analyzed factors most important to winning in the Women’s Tennis Association. Applied k-means clustering to group players based on their performance on break points."
