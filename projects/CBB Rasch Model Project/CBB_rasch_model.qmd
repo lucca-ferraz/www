@@ -16,4 +16,4 @@ about:
       target: _blank
 ---
 
-Utilized logistic regression to create an expected points model for the NBA 2023-24 regular season. Explored potential applications in team evaluation, predictive power, and player evaluation of scoring ability (both on-ball and off-ball), including building a Regularized Adjusted Plus-Minus metric. 
+Utilized regularized regression to evaluate top offenses and defenses in college basketball. Rasch model allows for applications in game prediction and team evaluation ahead of March Madness.
