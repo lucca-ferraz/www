@@ -20,7 +20,7 @@ about:
       href: assets/luccaresume.pdf
 ---
 
-Welcome to my website! I am a Junior at Rice University majoring in Statistics and Sport Analytics, with minors in Data Science and Financial Computation and Modeling. My parents immigrated to the USA from Brazil, and I grew up in Asheville, North Carolina. 
+Welcome to my website! I am a Junior at Rice University majoring in Statistics and Sport Analytics, with minors in Data Science and Financial Computation and Modeling.
 
 I am a mathematically-oriented thinker interested in using data to solve complex problems in the real-world. My career interests lie in sport analytics, quantitative finance, and data science. Throughout my coursework, internships, and passion projects, I have developed skills in R, Python, and SQL. 
 
