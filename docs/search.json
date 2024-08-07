@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Lucca Ferraz",
     "section": "",
-    "text": "Welcome to my website! I am a Junior at Rice University majoring in Statistics and Sport Analytics, with minors in Data Science and Financial Computation and Modeling."
+    "text": "Welcome to my website! I am a Junior at Rice University majoring in Statistics and Sport Analytics, with minors in Data Science and Financial Computation and Modeling. My parents immigrated to the USA from Brazil, and I grew up in Asheville, North Carolina.\nI am a mathematically-oriented thinker interested in using data to solve complex problems in the real-world. My career interests lie in sport analytics, quantitative finance, and data science. Throughout my coursework, internships, and passion projects, I have developed skills in R, Python, and SQL.\nIn my free time, you can find me playing basketball, chess, and cooking. Please have a look around my website, and feel free to contact me if you have any questions or want to connect!"
   },
   {
     "objectID": "projects/CBB Rasch Model Project/CBB_rasch_model.html",
@@ -21,13 +21,6 @@
     "text": "Utilized logistic regression to create an expected points model for the NBA 2023-24 regular season. Explored potential applications in team evaluation, predictive power, and player evaluation of scoring ability (both on-ball and off-ball), including building a Regularized Adjusted Plus-Minus metric."
   },
   {
-    "objectID": "projects/CMSACamp EDA Project/eda.html",
-    "href": "projects/CMSACamp EDA Project/eda.html",
-    "title": "CMSACamp EDA Project",
-    "section": "",
-    "text": "Analyzed factors most important to winning in the Women’s Tennis Association. Applied k-means clustering to group players based on their performance on break points."
-  },
-  {
     "objectID": "projects/CMSACamp Capstone Project/capstone.html",
     "href": "projects/CMSACamp Capstone Project/capstone.html",
     "title": "CMSACamp Capstone Project",
@@ -39,6 +32,6 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Below, you can find my projects…\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCMSACamp Capstone Project\n\n\n\n\n\nBatted Passes in the NFL: A Hierarchical Approach to Explaining Variance of an Unlikely Event\n\n\n\n\n\nJul 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nCMSACamp EDA Project\n\n\n\n\n\nEDA Project on WTA Grand Slam Statistics for SURE 2024 at Carnegie Mellon University\n\n\n\n\n\nJun 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nIntro to Sport Analytics Final Project\n\n\n\n\n\nExpected Points and its Applications in the NBA\n\n\n\n\n\nApr 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nRegularized Regression Project\n\n\n\n\n\nCollege Basketball Rasch Model to Evaluate Top Offenses and Defenses\n\n\n\n\n\nFeb 1, 2024\n\n\n\n\n\n\nNo matching items"
+    "text": "Below, you can find my projects…\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCMSACamp Capstone Project\n\n\n\n\n\nBatted Passes in the NFL: A Hierarchical Approach to Explaining Variance of an Unlikely Event\n\n\n\n\n\nJul 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nIntro to Sport Analytics Final Project\n\n\n\n\n\nExpected Points and its Applications in the NBA\n\n\n\n\n\nApr 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nRegularized Regression Project\n\n\n\n\n\nCollege Basketball Rasch Model to Evaluate Top Offenses and Defenses\n\n\n\n\n\nFeb 1, 2024\n\n\n\n\n\n\nNo matching items"
   }
 ]
