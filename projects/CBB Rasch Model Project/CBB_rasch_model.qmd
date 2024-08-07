@@ -1,0 +1,19 @@
+---
+title: "Regularized Regression Project"
+description: "College Basketball Rasch Model to Evaluate Top Offenses and Defenses"
+date: February 2024
+about:
+  template: solana
+  image: cover.jpg
+  links: 
+    - icon: github
+      text: "GitHub"
+      href: https://github.com/lucca-ferraz/CBB-Rasch-Model
+      target: _blank
+    - icon: pencil
+      text: Report
+      href: https://github.com/lucca-ferraz/CBB-Rasch-Model/blob/main/SMGT%20430%20Regularized%20Regression.pdf
+      target: _blank
+---
+
+Utilized logistic regression to create an expected points model for the NBA 2023-24 regular season. Explored potential applications in team evaluation, predictive power, and player evaluation of scoring ability (both on-ball and off-ball), including building a Regularized Adjusted Plus-Minus metric. 

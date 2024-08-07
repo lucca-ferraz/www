@@ -1,5 +1,5 @@
 ---
-title: "EDA"
+title: "CMSACamp EDA Project"
 description: "EDA Project on WTA Grand Slam Statistics for SURE 2024 at Carnegie Mellon University"
 date: June 2024
 about:
@@ -9,6 +9,7 @@ about:
     - icon: github
       text: "GitHub"
       href: https://github.com/lucca-ferraz/SURE-EDA-Analysis
+      target: _blank
     - icon: laptop
       text: Slides
       href: https://docs.google.com/presentation/d/18cddi7XZhXXDWLZoGvyAbiND6xvn-nDhXr5oRsOWaBA/edit?usp=sharing

@@ -1,5 +1,5 @@
 ---
-title: "Carnegie Mellon Sports Analytics Camp Capstone"
+title: "CMSACamp Capstone Project"
 description: "Batted Passes in the NFL: A Hierarchical Approach to Explaining Variance of an Unlikely Event"
 date: July 2024
 about:
@@ -9,15 +9,19 @@ about:
     - icon: github
       text: "GitHub"
       href: https://github.com/lucca-ferraz/Modeling-Batted-Passes
+      target: _blank
     - icon: laptop
       text: Slides
       href: https://www.stat.cmu.edu/cmsac/sure/2024/showcase/football/slides.html#/
+      target: _blank
     - icon: file
       text: Poster
       href: https://www.stat.cmu.edu/cmsac/sure/2024/showcase/football/poster.pdf
+      target: _blank
     - icon: pencil
       text: Report
       href: https://www.stat.cmu.edu/cmsac/sure/2024/showcase/football/report.html
+      target: _blank
 ---
 
 **Research Question: How can we best explain the variance of batted passes in the NFL on a play-by-play basis?**
