@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Lucca Ferraz",
     "section": "",
-    "text": "Welcome to my website! I am a Junior at Rice University majoring in Statistics and Sport Analytics, with minors in Data Science and Financial Computation and Modeling.\nI am a mathematically-oriented thinker interested in using data to solve complex problems in the real-world. My career interests lie in sport analytics, quantitative finance, and data science. Throughout my coursework, internships, and passion projects, I have developed skills in R, Python, and SQL.\nIn my free time, you can find me playing basketball, chess, and cooking. Please have a look around my website, and feel free to contact me if you have any questions or want to connect!"
+    "text": "Welcome to my website! I am a Junior at Rice University majoring in Statistics and Sport Analytics, with minors in Data Science and Financial Computation and Modeling.\nI am a mathematically-oriented thinker interested in using data to solve complex problems in the real-world. My career interests lie in sport analytics, quantitative finance, and data science. Throughout my coursework, internships, and passion projects, I have developed skills in R, Python, and SQL.\nIn my free time, you can find me playing basketball, chess, and the tuba. Please have a look around my website, and feel free to contact me if you have any questions or want to connect!"
   },
   {
     "objectID": "projects/CBB Rasch Model Project/CBB_rasch_model.html",
@@ -21,6 +21,13 @@
     "text": "Utilized logistic regression to create an expected points model for the NBA 2023-24 regular season. Explored potential applications in team evaluation, predictive power, and player evaluation of scoring ability (both on-ball and off-ball), including building a Regularized Adjusted Plus-Minus metric."
   },
   {
+    "objectID": "projects/SMT Data Challenge 2024/smt_data_challenge24.html",
+    "href": "projects/SMT Data Challenge 2024/smt_data_challenge24.html",
+    "title": "2024 SMT Data Challenge Submission",
+    "section": "",
+    "text": "Project focused on optimizing batting order in minor league baseball using farm system data provided by SMT. Multifaceted approach to game simulation taking into account baserunner speed, pitcher fatigue, directional tendencies, and more."
+  },
+  {
     "objectID": "projects/CMSACamp Capstone Project/capstone.html",
     "href": "projects/CMSACamp Capstone Project/capstone.html",
     "title": "CMSACamp Capstone Project",
@@ -32,6 +39,6 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Below, you can find my projects…\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCMSACamp Capstone Project\n\n\n\n\n\nBatted Passes in the NFL: A Hierarchical Approach to Explaining Variance of an Unlikely Event\n\n\n\n\n\nJul 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nIntro to Sport Analytics Final Project\n\n\n\n\n\nExpected Points and its Applications in the NBA\n\n\n\n\n\nApr 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nRegularized Regression Project\n\n\n\n\n\nCollege Basketball Rasch Model to Evaluate Top Offenses and Defenses\n\n\n\n\n\nFeb 1, 2024\n\n\n\n\n\n\nNo matching items"
+    "text": "Below, you can find my projects…\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2024 SMT Data Challenge Submission\n\n\n\n\n\nOptimizing Batting Order in Minor League Baseball\n\n\n\n\n\nAug 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nCMSACamp Capstone Project\n\n\n\n\n\nBatted Passes in the NFL: A Hierarchical Approach to Explaining Variance of an Unlikely Event\n\n\n\n\n\nJul 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nIntro to Sport Analytics Final Project\n\n\n\n\n\nExpected Points and its Applications in the NBA\n\n\n\n\n\nApr 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nRegularized Regression Project\n\n\n\n\n\nCollege Basketball Rasch Model to Evaluate Top Offenses and Defenses\n\n\n\n\n\nFeb 1, 2024\n\n\n\n\n\n\nNo matching items"
   }
 ]

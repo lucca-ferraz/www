@@ -1,0 +1,19 @@
+---
+title: "2024 SMT Data Challenge Submission"
+description: "Optimizing Batting Order in Minor League Baseball"
+date: August 2024
+about:
+  template: solana
+  image: cover.jpg
+  links: 
+    - icon: github
+      text: "GitHub"
+      href: https://github.com/lucca-ferraz/SMT-Data-Challenge-2024
+      target: _blank
+    - icon: pencil
+      text: Report
+      href: https://github.com/lucca-ferraz/SMT-Data-Challenge-2024/blob/main/SMT%20Data%20Challenge%20Paper.pdf
+      target: _blank
+---
+
+Project focused on optimizing batting order in minor league baseball using farm system data provided by SMT. Multifaceted approach to game simulation taking into account baserunner speed, pitcher fatigue, directional tendencies, and more.
