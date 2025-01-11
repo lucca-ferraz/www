@@ -6,8 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="dcterms.date" content="2025-01-01">
+<meta name="description" content="TEndencIQ - Predicting Tight End Blocking Assignments Pre-Snap">
 
-<title>Projects – Lucca Ferraz</title>
+<title>2025 Big Data Bowl Submission – Lucca Ferraz</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,24 +25,21 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -68,77 +67,19 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
 
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="../../styles.css">
 </head>
 
-<body class="nav-fixed">
+<body class="nav-fixed fullcontent">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Lucca Ferraz</span>
     </a>
   </div>
@@ -149,11 +90,11 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html"> 
+    <a class="nav-link" href="../../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./projects.html" aria-current="page"> 
+    <a class="nav-link" href="../../projects.html"> 
 <span class="menu-text">Projects</span></a>
   </li>  
 </ul>
@@ -169,7 +110,7 @@ window.Quarto = {
 <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="./assets/luccaresume.pdf"> <i class="bi bi-file-pdf" role="img">
+    <a class="nav-link" href="../../assets/luccaresume.pdf"> <i class="bi bi-file-pdf" role="img">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
@@ -184,168 +125,49 @@ window.Quarto = {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
-    </div>
+    
 <!-- main -->
-<main class="content" id="quarto-document-content">
-
-<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-about-solana column-body">
+  <div class="about-entity">
+    <div class="entity-contents">
+      <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Projects</h1>
+<h1 class="title">2025 Big Data Bowl Submission</h1>
 </div>
-
-
-
-<div class="quarto-title-meta">
-
-    
-  
-    
+<div>
+  <div class="description">
+    TEndencIQ - Predicting Tight End Blocking Assignments Pre-Snap
   </div>
-  
+</div>
+<div class="quarto-title-meta">
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">January 1, 2025</p>
+    </div>
+  </div>
+  </div>
+</header> <div class="about-links">
+  <a href="https://www.kaggle.com/code/ericthesteinberg/tendenciq/notebook" class="about-link" rel="" target="_blank">
+    <i class="bi bi-pencil"></i>
+     <span class="about-link-text">Notebook</span>
+  </a>
+  <a href="https://github.com/lucca-ferraz/bigdatabowl2025" class="about-link" rel="" target="_blank">
+    <i class="bi bi-github"></i>
+     <span class="about-link-text">GitHub</span>
+  </a>
+</div>
+      <div class="about-contents"><main class="content" id="quarto-document-content">
+<p>2025 Big Data Bowl Submission focused on predicting whether tight ends would block or not pre-snap. Applied Gaussian Mixture Model to categorize pre-snap movement as well as Recurrent Neural Network for a frame-by-frame view of blocking probabilities.</p>
 
 
-</header>
-
-
-<p>Below, you can find my projects…</p>
-
-
-
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1722484800000" data-listing-file-modified-sort="1728941960490" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="33">
-<div class="thumbnail">
-<p><a href="./projects/SMT Data Challenge 2024/smt_data_challenge24.html" class="no-external"></a></p><a href="./projects/SMT Data Challenge 2024/smt_data_challenge24.html" class="no-external">
-<p class="card-img-top"><img src="projects/SMT Data Challenge 2024/cover.jpg"  class="thumbnail-image card-img"/></p>
-</a><p><a href="./projects/SMT Data Challenge 2024/smt_data_challenge24.html" class="no-external"></a></p>
+</main></div>
+    </div>
+    <img src="cover.jpg" class="about-image
+  rounded " style="width: 15em;">
+  </div>
 </div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./projects/SMT Data Challenge 2024/smt_data_challenge24.html" class="no-external">2024 SMT Data Challenge Submission</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./projects/SMT Data Challenge 2024/smt_data_challenge24.html" class="no-external"></a>
-</div>
-<div class="listing-description">
-<a href="./projects/SMT Data Challenge 2024/smt_data_challenge24.html" class="no-external">Optimizing Batting Order in Minor League Baseball</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./projects/SMT Data Challenge 2024/smt_data_challenge24.html" class="no-external">
-<div class="listing-date">
-Aug 1, 2024
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1735707600000" data-listing-file-modified-sort="1736636327304" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="37">
-<div class="thumbnail">
-<p><a href="./projects/Big Data Bowl 2025/big_data_bowl_2025.html" class="no-external"></a></p><a href="./projects/Big Data Bowl 2025/big_data_bowl_2025.html" class="no-external">
-<p class="card-img-top"><img src="projects/Big Data Bowl 2025/cover.jpg"  class="thumbnail-image card-img"/></p>
-</a><p><a href="./projects/Big Data Bowl 2025/big_data_bowl_2025.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./projects/Big Data Bowl 2025/big_data_bowl_2025.html" class="no-external">2025 Big Data Bowl Submission</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./projects/Big Data Bowl 2025/big_data_bowl_2025.html" class="no-external"></a>
-</div>
-<div class="listing-description">
-<a href="./projects/Big Data Bowl 2025/big_data_bowl_2025.html" class="no-external">TEndencIQ - Predicting Tight End Blocking Assignments Pre-Snap</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./projects/Big Data Bowl 2025/big_data_bowl_2025.html" class="no-external">
-<div class="listing-date">
-Jan 1, 2025
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-listing-date-sort="1719806400000" data-listing-file-modified-sort="1722302779086" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="44">
-<div class="thumbnail">
-<p><a href="./projects/CMSACamp Capstone Project/capstone.html" class="no-external"></a></p><a href="./projects/CMSACamp Capstone Project/capstone.html" class="no-external">
-<p class="card-img-top"><img src="projects/CMSACamp Capstone Project/cover.jpg"  class="thumbnail-image card-img"/></p>
-</a><p><a href="./projects/CMSACamp Capstone Project/capstone.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./projects/CMSACamp Capstone Project/capstone.html" class="no-external">CMSACamp Capstone Project</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./projects/CMSACamp Capstone Project/capstone.html" class="no-external"></a>
-</div>
-<div class="listing-description">
-<a href="./projects/CMSACamp Capstone Project/capstone.html" class="no-external">Batted Passes in the NFL: A Hierarchical Approach to Explaining Variance of an Unlikely Event</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./projects/CMSACamp Capstone Project/capstone.html" class="no-external">
-<div class="listing-date">
-Jul 1, 2024
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="3" data-listing-date-sort="1711944000000" data-listing-file-modified-sort="1722305184921" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="41">
-<div class="thumbnail">
-<p><a href="./projects/Expected Points NBA Project/NBA_expected_points.html" class="no-external"></a></p><a href="./projects/Expected Points NBA Project/NBA_expected_points.html" class="no-external">
-<p class="card-img-top"><img src="projects/Expected Points NBA Project/cover.jpg"  class="thumbnail-image card-img"/></p>
-</a><p><a href="./projects/Expected Points NBA Project/NBA_expected_points.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./projects/Expected Points NBA Project/NBA_expected_points.html" class="no-external">Intro to Sport Analytics Final Project</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./projects/Expected Points NBA Project/NBA_expected_points.html" class="no-external"></a>
-</div>
-<div class="listing-description">
-<a href="./projects/Expected Points NBA Project/NBA_expected_points.html" class="no-external">Expected Points and its Applications in the NBA</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./projects/Expected Points NBA Project/NBA_expected_points.html" class="no-external">
-<div class="listing-date">
-Apr 1, 2024
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="4" data-listing-date-sort="1706763600000" data-listing-file-modified-sort="1723055839694" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="27">
-<div class="thumbnail">
-<p><a href="./projects/CBB Rasch Model Project/CBB_rasch_model.html" class="no-external"></a></p><a href="./projects/CBB Rasch Model Project/CBB_rasch_model.html" class="no-external">
-<p class="card-img-top"><img src="projects/CBB Rasch Model Project/cover.jpg"  class="thumbnail-image card-img"/></p>
-</a><p><a href="./projects/CBB Rasch Model Project/CBB_rasch_model.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./projects/CBB Rasch Model Project/CBB_rasch_model.html" class="no-external">Regularized Regression Project</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./projects/CBB Rasch Model Project/CBB_rasch_model.html" class="no-external"></a>
-</div>
-<div class="listing-description">
-<a href="./projects/CBB Rasch Model Project/CBB_rasch_model.html" class="no-external">College Basketball Rasch Model to Evaluate Top Offenses and Defenses</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./projects/CBB Rasch Model Project/CBB_rasch_model.html" class="no-external">
-<div class="listing-date">
-Feb 1, 2024
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div></main> <!-- /main -->
+ <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -366,13 +188,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
-  const icon = "";
-  const anchorJS = new window.AnchorJS();
-  anchorJS.options = {
-    placement: 'right',
-    icon: icon
-  };
-  anchorJS.add('.anchored');
   const isCodeAnnotation = (el) => {
     for (const clz of el.classList) {
       if (clz.startsWith('code-annotation-')) {                     

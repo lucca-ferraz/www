@@ -39,6 +39,13 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Below, you can find my projects…\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2024 SMT Data Challenge Submission\n\n\n\n\n\nOptimizing Batting Order in Minor League Baseball\n\n\n\n\n\nAug 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nCMSACamp Capstone Project\n\n\n\n\n\nBatted Passes in the NFL: A Hierarchical Approach to Explaining Variance of an Unlikely Event\n\n\n\n\n\nJul 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nIntro to Sport Analytics Final Project\n\n\n\n\n\nExpected Points and its Applications in the NBA\n\n\n\n\n\nApr 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nRegularized Regression Project\n\n\n\n\n\nCollege Basketball Rasch Model to Evaluate Top Offenses and Defenses\n\n\n\n\n\nFeb 1, 2024\n\n\n\n\n\n\nNo matching items"
+    "text": "Below, you can find my projects…\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2024 SMT Data Challenge Submission\n\n\n\n\n\nOptimizing Batting Order in Minor League Baseball\n\n\n\n\n\nAug 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n2025 Big Data Bowl Submission\n\n\n\n\n\nTEndencIQ - Predicting Tight End Blocking Assignments Pre-Snap\n\n\n\n\n\nJan 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nCMSACamp Capstone Project\n\n\n\n\n\nBatted Passes in the NFL: A Hierarchical Approach to Explaining Variance of an Unlikely Event\n\n\n\n\n\nJul 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nIntro to Sport Analytics Final Project\n\n\n\n\n\nExpected Points and its Applications in the NBA\n\n\n\n\n\nApr 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nRegularized Regression Project\n\n\n\n\n\nCollege Basketball Rasch Model to Evaluate Top Offenses and Defenses\n\n\n\n\n\nFeb 1, 2024\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/Big Data Bowl 2025/big_data_bowl_2025.html",
+    "href": "projects/Big Data Bowl 2025/big_data_bowl_2025.html",
+    "title": "2025 Big Data Bowl Submission",
+    "section": "",
+    "text": "2025 Big Data Bowl Submission focused on predicting whether tight ends would block or not pre-snap. Applied Gaussian Mixture Model to categorize pre-snap movement as well as Recurrent Neural Network for a frame-by-frame view of blocking probabilities."
   }
 ]

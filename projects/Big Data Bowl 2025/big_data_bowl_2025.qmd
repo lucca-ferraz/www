@@ -1,0 +1,20 @@
+---
+title: "2025 Big Data Bowl Submission"
+description: "TEndencIQ - Predicting Tight End Blocking Assignments Pre-Snap"
+date: January 2025
+about:
+  template: solana
+  image: cover.jpg
+  links: 
+    - icon: pencil
+      text: Notebook
+      href: https://www.kaggle.com/code/ericthesteinberg/tendenciq/notebook
+      target: _blank
+    - icon: github
+      text: "GitHub"
+      href: https://github.com/lucca-ferraz/bigdatabowl2025
+      target: _blank
+
+---
+
+2025 Big Data Bowl Submission focused on predicting whether tight ends would block or not pre-snap. Applied Gaussian Mixture Model to categorize pre-snap movement as well as Recurrent Neural Network for a frame-by-frame view of blocking probabilities.
