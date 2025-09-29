@@ -46,6 +46,48 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Below, you can find my projects…\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2024 SMT Data Challenge Submission\n\n\n\n\n\nOptimizing Batting Order in Minor League Baseball\n\n\n\n\n\nAug 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n2025 Big Data Bowl Submission\n\n\n\n\n\nTEndencIQ: Predicting Tight End Blocking Assignments Pre-Snap\n\n\n\n\n\nJan 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nCMSACamp Capstone Project\n\n\n\n\n\nBatted Passes in the NFL: A Hierarchical Approach to Explaining Variance of an Unlikely Event\n\n\n\n\n\nJul 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nIntro to Sport Analytics Final Project\n\n\n\n\n\nExpected Points and its Applications in the NBA\n\n\n\n\n\nApr 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nRegularized Regression Project\n\n\n\n\n\nCollege Basketball Rasch Model to Evaluate Top Offenses and Defenses\n\n\n\n\n\nFeb 1, 2024\n\n\n\n\n\n\nNo matching items"
+    "text": "Below, you can find my projects…\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2024 SMT Data Challenge Submission\n\n\nOptimizing Batting Order in Minor League Baseball\n\n\n\n\n\nAug 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n2025 Big Data Bowl Submission\n\n\nTEndencIQ: Predicting Tight End Blocking Assignments Pre-Snap\n\n\n\n\n\nJan 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nCMSACamp Capstone Project\n\n\nBatted Passes in the NFL: A Hierarchical Approach to Explaining Variance of an Unlikely Event\n\n\n\n\n\nJul 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nIntro to Sport Analytics Final Project\n\n\nExpected Points and its Applications in the NBA\n\n\n\n\n\nApr 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nRegularized Regression Project\n\n\nCollege Basketball Rasch Model to Evaluate Top Offenses and Defenses\n\n\n\n\n\nFeb 1, 2024\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "experience.html",
+    "href": "experience.html",
+    "title": "Experience",
+    "section": "",
+    "text": "Baseball Research & Development Intern\nJanuary - August 2025\nDuring my internship with the Rays, I focused on building tools and models to support player evaluation and decision-making:\n\nI developed an R Shiny application that automatically identified concerning amateur pitchers, streamlining the scouting process and saving the staff 100+ hours of manual tagging.\nI trained an XGBoost model to evaluate and predict baserunning reads on more than 150,000 batted balls dating back to 2015, helping quantify a previously hard-to-measure skill.\nI created an automated RMarkdown reporting system for park factor corrections, improving the accuracy of draft prospect evaluations across different playing environments.\n\nThese projects combined statistical modeling, data engineering, and visualization to deliver tools that directly supported the Rays’ front office and scouting operations."
+  },
+  {
+    "objectID": "experience.html#tampa-bay-rays",
+    "href": "experience.html#tampa-bay-rays",
+    "title": "Experience",
+    "section": "",
+    "text": "Baseball Research & Development Intern\nJanuary - August 2025\nDuring my internship with the Rays, I focused on building tools and models to support player evaluation and decision-making:\n\nI developed an R Shiny application that automatically identified concerning amateur pitchers, streamlining the scouting process and saving the staff 100+ hours of manual tagging.\nI trained an XGBoost model to evaluate and predict baserunning reads on more than 150,000 batted balls dating back to 2015, helping quantify a previously hard-to-measure skill.\nI created an automated RMarkdown reporting system for park factor corrections, improving the accuracy of draft prospect evaluations across different playing environments.\n\nThese projects combined statistical modeling, data engineering, and visualization to deliver tools that directly supported the Rays’ front office and scouting operations."
+  },
+  {
+    "objectID": "experience.html#rice-football",
+    "href": "experience.html#rice-football",
+    "title": "Experience",
+    "section": "Rice Football",
+    "text": "Rice Football\nStudent Head of Analytics\nAugust 2022 - Present\nI’ve been part of Rice Football since my very first week of college, starting as a video operations intern filming practices and games for the coaching staff. After one semester, I transitioned into recruiting and scouting, where I evaluated prospects through extensive video review and led official/unofficial visits for recruits and their families.\nBy my sophomore year, I helped build out Rice’s first student-led analytics department, which has since grown from just 2 people to a team of 12. In this role, I’ve led projects that directly supported coaches and recruiting staff, including:\n\nDeveloping analytics-based scouting reports for weekly opponents.\nCreating machine learning models to project transfer portal entries and estimate the likelihood of players transferring to Rice.\nDesigning a R Shiny web application to automate opponent scouting processes.\nAssisting in the evaluation of every Texas Class of 2024 high school prospect.\n\nThis experience has given me hands-on exposure to multiple aspects of a Division I football program (video operations, recruiting, scouting, and analytics) while also allowing me to lead and mentor a growing team of student analysts."
+  },
+  {
+    "objectID": "experience.html#carnegie-mellon-university-department-of-statistics-and-data-science",
+    "href": "experience.html#carnegie-mellon-university-department-of-statistics-and-data-science",
+    "title": "Experience",
+    "section": "Carnegie Mellon University Department of Statistics and Data Science",
+    "text": "Carnegie Mellon University Department of Statistics and Data Science\nUndergraduate Researcher\nJune - August 2024\nI was one of 15 students selected for a fully-funded 8-week research program at Carnegie Mellon’s Department of Statistics & Data Science, where I applied advanced statistical methods to problems in sports analytics.\nMy capstone project, “Batted Passes in the NFL: A Hierarchical Approach to Explaining Variance of an Unlikely Event” (advised by Dr. Ron Yurko), investigated the drivers behind one of football’s rarest but impactful plays. Using a mixed-effects logistic regression model, I:\n\nQuantified how play context, quarterback tendencies, and defensive pressure contribute to batted passes.\nGenerated quarterback rankings based on random effect estimates of their ability to avoid batted passes.\nProduced a full paper, poster, and presentation, which I presented at the 2024 Carnegie Mellon Sports Analytics Conference (all of which can be in the “Projects” section).\n\nThis experience deepened my skills in hierarchical modeling, statistical inference, and communicating results to both technical and non-technical audiences."
+  },
+  {
+    "objectID": "experience.html#montgomery-sports-group",
+    "href": "experience.html#montgomery-sports-group",
+    "title": "Experience",
+    "section": "Montgomery Sports Group",
+    "text": "Montgomery Sports Group\nBasketball Analytics Intern\nJune - August 2023\nMontgomery Sports Group is a small basketball agency with just two full-time agents, which gave me the opportunity to make a direct impact on player scouting and evaluation. My role combined traditional film breakdown with analytics-based research, producing insights that were used in client recruitment and representation.\nHighlights:\n\nAuthored 15+ video and written scouting reports that blended film study with statistical analysis, used in player meetings. You can find an example written report here as well as an example video here.\nEvaluated prospects with Synergy Sports data to project NBA success and long-term earning potential.\nExpanded the agency’s prospect database by adding 50+ players, each with detailed evaluations and backgrounds.\nConducted market research on NBA free agency moves, identifying ideal destinations and opportunities for clients.\nDesigned an in-depth pitch deck for a prospective NBA client that was presented in agency meetings.\n\nThis experience gave me a close look at the business and strategy side of basketball, while allowing me to contribute meaningfully to scouting and player evaluation processes."
+  },
+  {
+    "objectID": "experience.html#carnegie-mellon-university",
+    "href": "experience.html#carnegie-mellon-university",
+    "title": "Experience",
+    "section": "Carnegie Mellon University",
+    "text": "Carnegie Mellon University\nUndergraduate Researcher - Department of Statistics and Data Science\nJune - August 2024\nI was one of 15 students selected for a fully-funded 8-week research program at Carnegie Mellon’s Department of Statistics & Data Science, where I applied advanced statistical methods to problems in sports analytics.\nMy capstone project, “Batted Passes in the NFL: A Hierarchical Approach to Explaining Variance of an Unlikely Event” (advised by Dr. Ron Yurko), investigated the drivers behind one of football’s rarest but impactful plays. Using a mixed-effects logistic regression model, I:\n\nQuantified how play context, quarterback tendencies, and defensive pressure contribute to batted passes.\nGenerated quarterback rankings based on random effect estimates of their ability to avoid batted passes.\nProduced a full paper, poster, and presentation, which I presented at the 2024 Carnegie Mellon Sports Analytics Conference.\n\nThis experience deepened my skills in hierarchical modeling, statistical inference, and communicating results to both technical and non-technical audiences."
   }
 ]

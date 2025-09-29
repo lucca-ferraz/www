@@ -10,6 +10,7 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - experience.qmd
       - projects.qmd
     right: 
       - icon: linkedin

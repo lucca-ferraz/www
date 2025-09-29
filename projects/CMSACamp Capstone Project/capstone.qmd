@@ -22,6 +22,10 @@ about:
       text: Report
       href: https://www.stat.cmu.edu/cmsac/sure/2024/showcase/football/report.html
       target: _blank
+    - icon: camera-video
+      text: Presentation
+      href: https://www.youtube.com/watch?v=4njeumTwOTI
+      target: _blank
 ---
 
 **Research Question: How can we best explain the variance of batted passes in the NFL on a play-by-play basis?**
