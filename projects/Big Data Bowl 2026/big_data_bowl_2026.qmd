@@ -1,0 +1,19 @@
+---
+title: "2026 Big Data Bowl Submission"
+description: "Ghostbusters: Back off man, I'm a Data Scientist!"
+date: December 2025
+about:
+  template: solana
+  image: cover.jpg
+  links: 
+    - icon: pencil
+      text: Writeup
+      href: https://www.kaggle.com/competitions/nfl-big-data-bowl-2026-analytics/writeups/ghostbusters-back-off-man-im-a-data-scientist
+      target: _blank
+    - icon: github
+      text: "GitHub"
+      href: https://github.com/lucca-ferraz/nflbigdatabowl2026
+      target: _blank
+---
+
+2026 NFL Big Data Bowl submission focused on quantifying coverage defender positioning while the ball is in the air. Utilized Random Forest Conditional Density Estimation for constructing distribution of "ghost" defenders, XGBoost for estimating catch probability, and mixed-effects modeling for computing player talent estimates.
